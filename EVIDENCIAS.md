@@ -1,0 +1,1 @@
+# Evidencias SQA – Git
